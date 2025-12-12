@@ -1,0 +1,17 @@
+C:\Users\deepe\Downloads\task-manager-full\backend\src\main\java\com\example\taskmanager\dto\SummaryDTO.java
+C:\Users\deepe\Downloads\task-manager-full\backend\src\main\java\com\example\taskmanager\repository\TaskRepository.java
+C:\Users\deepe\Downloads\task-manager-full\backend\src\main\java\com\example\taskmanager\jwt\JwtFilter.java
+C:\Users\deepe\Downloads\task-manager-full\backend\src\main\java\com\example\taskmanager\service\CustomUserDetailsService.java
+C:\Users\deepe\Downloads\task-manager-full\backend\src\main\java\com\example\taskmanager\config\SecurityConfig.java
+C:\Users\deepe\Downloads\task-manager-full\backend\src\main\java\com\example\taskmanager\controller\AuthController.java
+C:\Users\deepe\Downloads\task-manager-full\backend\src\main\java\com\example\taskmanager\dto\AuthResponse.java
+C:\Users\deepe\Downloads\task-manager-full\backend\src\main\java\com\example\taskmanager\dto\AuthRequest.java
+C:\Users\deepe\Downloads\task-manager-full\backend\src\main\java\com\example\taskmanager\entity\UserEntity.java
+C:\Users\deepe\Downloads\task-manager-full\backend\src\main\java\com\example\taskmanager\repository\UserRepository.java
+C:\Users\deepe\Downloads\task-manager-full\backend\src\main\java\com\example\taskmanager\jwt\JwtUtil.java
+C:\Users\deepe\Downloads\task-manager-full\backend\src\main\java\com\example\taskmanager\service\TaskService.java
+C:\Users\deepe\Downloads\task-manager-full\backend\src\main\java\com\example\taskmanager\controller\TaskController.java
+C:\Users\deepe\Downloads\task-manager-full\backend\src\main\java\com\example\taskmanager\config\SwaggerConfig.java
+C:\Users\deepe\Downloads\task-manager-full\backend\src\main\java\com\example\taskmanager\entity\Task.java
+C:\Users\deepe\Downloads\task-manager-full\backend\src\main\java\com\example\taskmanager\TaskManagerApplication.java
+C:\Users\deepe\Downloads\task-manager-full\backend\src\main\java\com\example\taskmanager\service\AuthService.java
